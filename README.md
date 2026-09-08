@@ -1,2 +1,2 @@
 # DAA-code
-his is my first time unsing github
+this is my first time unsing github
